@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="mimiko1.png" alt="mimiko.Live" width="200"/>
-  <h1>Mimiko.LIVE</h1>
+  <img src="makimo1.png" alt="Makimo.Live" width="200"/>
+  <h1>MAKIMO.LIVE</h1>
   <p>Create Your Own AI VTuber Agent</p>
 </div>
 
@@ -166,8 +166,8 @@ MIT License - see [LICENSE](LICENSE)
 - Built with [pump.fun](https://pump.fun)
 - Powered by [Solana](https://solana.com)
 - AI powered by [OpenAI](https://openai.com)
-- Made with ❤️ by the Mimiko team
+- Made with ❤️ by the Makimo team
 
 ## 📚 Documentation
 
-Full documentation available soon at [docs.Mimiko.live](https://docs.Mimiko.live)
+Full documentation available soon at [docs.makimo.live](https://docs.makimo.live)
