@@ -1,4 +1,7 @@
 <div align="center">
+
+CA: nqjwgbawRxUnsJL6AiqRgSoxY2GXSDM11nQkT1Epump
+
   <img src="mimiko1.png" alt="mimiko.Live" width="200"/>
   <h1>MIMIKO.LIVE</h1>
   <p>Create Your Own AI VTuber Agent</p>
